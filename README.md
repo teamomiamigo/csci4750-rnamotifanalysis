@@ -3,8 +3,6 @@ Final Project for CSCI 4750 - Project 3: Build End-to-End Machine Learning for R
 
 ```mermaid
 graph TD;
-    graph TD;
-
   subgraph Data_Preparation
     A[Data Preprocessing] --> B[Data Merging]
     B --> C[Label Encoding]
