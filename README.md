@@ -46,3 +46,6 @@ graph TD;
     AB --> AC[Results Summary]
     AB --> AD[Comparison Analysis]
   end
+```
+
+mermaid diagram that shows the end-to-end workflow for this and what needs to get completed
